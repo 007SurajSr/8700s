@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "c:\\Users\\8700s\\.bito\\localcodesearch\\log\\.18e320a7d97d970601397561e14a782704903d4a-audit.json",
+    "files": [
+        {
+            "date": 1696496642765,
+            "name": "c:\\Users\\8700s\\.bito\\localcodesearch\\log\\log.json-2023-10-05-14.log",
+            "hash": "560e068fcef5a33f9d8a8621647800db05e1ae8bdfe1d8c3efbbaeb6d668975c"
+        },
+        {
+            "date": 1697031441463,
+            "name": "c:\\Users\\8700s\\.bito\\localcodesearch\\log\\log.json-2023-10-11-19.log",
+            "hash": "0ec90ed9c25e67da2b42ab793dd60596cb3d2bdf90ca5622165be12332845e21"
+        }
+    ],
+    "hashType": "sha256"
+}
