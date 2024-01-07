@@ -1,0 +1,78 @@
+{
+    "welcomeContent": {
+        "header": "Welcome to Bito!",
+        "body": "Hi, I can answer any technical question, write code for you, improve your code, and automate your dev tasks.",
+        "footer": [
+            {
+                "text": "Checkout our ",
+                "type": "text"
+            },
+            {
+                "text": "Bito Guides",
+                "type": "URL",
+                "url": "https://docs.bito.ai"
+            },
+            {
+                "text": " to learn more.",
+                "type": "text"
+            }
+        ]
+    },
+    "sampleQuestions": {
+        "header": "Ask any technical question (Click below to try)",
+        "questions": [
+            {
+                "id": 1,
+                "questionText": "Generate code in java to convert a number from one base to another"
+            },
+            {
+                "id": 3,
+                "questionText": "How to set global variables for git"
+            }
+        ]
+    },
+    "splashContent":   [
+        {
+            "header": "AI Code Completion",
+            "body": "Let Bito autocomplete the code in the editor or generate code from a comment",
+            "links": [
+                {
+                    "linkTitle": "Enable/Disable This",
+                    "linkURL": "codecomplete-settings",
+                    "linkType": "method"
+                },
+                {
+                    "linkTitle": "Learn more about Autocompletion",
+                    "linkURL": "https://docs.bito.ai",
+                    "linkType": "URL"
+                },
+                {
+                    "linkTitle": "Learn more about Comment to Code",
+                    "linkURL": "https://docs.bito.ai",
+                    "linkType": "URL"
+                }
+            ]
+        },
+        {
+            "header": "Intelligent Automation",
+            "body": "Automate your developer workflows with Bito AI",
+            "links": [
+                {
+                    "linkTitle": "Automate Code Document",
+                    "linkURL": "https://github.com/gitbito/Automation/tree/main/documentation/create_code_doc",
+                    "linkType": "URL"
+                },
+                {
+                    "linkTitle": "Automate Test Case Generation",
+                    "linkURL": "https://github.com/gitbito/Automation/tree/main/unittests/gentestcase",
+                    "linkType": "URL"
+                },
+                {
+                    "linkTitle": "Learn More",
+                    "linkURL": "https://github.com/gitbito/Automation",
+                    "linkType": "URL"
+                }
+            ]
+        }
+    ]
+}

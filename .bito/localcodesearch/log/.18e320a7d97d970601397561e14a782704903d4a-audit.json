@@ -6,14 +6,19 @@
     "auditLog": "c:\\Users\\8700s\\.bito\\localcodesearch\\log\\.18e320a7d97d970601397561e14a782704903d4a-audit.json",
     "files": [
         {
-            "date": 1696496642765,
-            "name": "c:\\Users\\8700s\\.bito\\localcodesearch\\log\\log.json-2023-10-05-14.log",
-            "hash": "560e068fcef5a33f9d8a8621647800db05e1ae8bdfe1d8c3efbbaeb6d668975c"
+            "date": 1703415715813,
+            "name": "c:\\Users\\8700s\\.bito\\localcodesearch\\log\\log.json-2023-12-24-16.log",
+            "hash": "708b253b5fa1a3ae9b1b9193a7ffd3f7d419a9dea3b0670fd56633784d5eb936"
         },
         {
-            "date": 1697031441463,
-            "name": "c:\\Users\\8700s\\.bito\\localcodesearch\\log\\log.json-2023-10-11-19.log",
-            "hash": "0ec90ed9c25e67da2b42ab793dd60596cb3d2bdf90ca5622165be12332845e21"
+            "date": 1703499044071,
+            "name": "c:\\Users\\8700s\\.bito\\localcodesearch\\log\\log.json-2023-12-25-15.log",
+            "hash": "7a50fa786d810715012289b2ea8eb347e06e5a76eb4c704a748efaebc29dad36"
+        },
+        {
+            "date": 1704641805093,
+            "name": "c:\\Users\\8700s\\.bito\\localcodesearch\\log\\log.json-2024-01-07-21.log",
+            "hash": "9e58d69b78918c4a15ec663d0dd3a5edd2d2e9cef2635896a6bf52f857e826ea"
         }
     ],
     "hashType": "sha256"
