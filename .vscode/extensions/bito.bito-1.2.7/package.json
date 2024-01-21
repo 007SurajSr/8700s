@@ -372,10 +372,9 @@
 		"publisherId": "e9849850-6ca1-4582-904c-c191feb62fed",
 		"publisherDisplayName": "Bito",
 		"targetPlatform": "undefined",
-		"isApplicationScoped": false,
-		"updated": true,
+		"updated": false,
 		"isPreReleaseVersion": false,
-		"installedTimestamp": 1703413367456,
+		"installedTimestamp": 1705806002974,
 		"pinned": false,
 		"preRelease": false
 	}
